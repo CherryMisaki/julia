@@ -3,4 +3,4 @@ coverage:
     project: off
     patch: off
 fixes:
-  - "main/::" 
+   "main/::" 
