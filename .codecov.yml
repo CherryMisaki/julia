@@ -2,5 +2,6 @@ coverage:
   status:
     project: off
     patch: off
+
 fixes:
-   "main/::" 
+  - "::/test_repository"
