@@ -2,6 +2,9 @@ coverage:
   status:
     project: off
     patch: off
-
 fixes:
-  - "::/test_repository"
+  - "main/::"
+
+          
+github_checks:
+  annotations: false
